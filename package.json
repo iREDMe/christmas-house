@@ -1,0 +1,31 @@
+{
+  "name": "christmas-house",
+  "version": "1.0.0",
+  "description": "A Christmas House with multiple outcomes.",
+  "main": "src/",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "node tests/dev",
+    "naughty": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iREDMe/christmas-house.git"
+  },
+  "keywords": [
+    "house",
+    "christmas",
+    "christmas-house",
+    "santa",
+    "presents",
+    "wishlist"
+  ],
+  "author": "iREDMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iREDMe/christmas-house/issues"
+  },
+  "homepage": "https://github.com/iREDMe/christmas-house#readme"
+}

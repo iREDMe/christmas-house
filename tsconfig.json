@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"watch": true,
+		"lib": ["dom", "es2017"],
+		"target": "esnext",
+		"outDir": "src/",
+		"project": "tslint.json",
+		"module": "commonjs"
+	},
+	"files": ["typescript/index.ts"]
+}
