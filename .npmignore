@@ -2,3 +2,4 @@
 tslint.json
 tsconfig.json
 typescript/
+tests/dev
