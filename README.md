@@ -4,11 +4,7 @@
 
 You are to be able to make cookies and milk for Santa to come around, while watching him.
 
-Unlike my other joke modules, there are NO PROMISES this time around. You will not have delays on functions; The only thing included is
-
-> I am sandvich.
-> No.
-> Yes.
+Unlike my other joke modules, there are NO PROMISES this time around. You will not have delays on functions; The only thing included is functions.
 
 __Events.__
 
